@@ -47,6 +47,11 @@ html {
 
 body {
     font-family: iransnum, Tahoma, sans-serif;
+    direction: rtl;
+    background-image: url('../pic/bghome.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #d7e8e5;
 }
 
 .bg {
